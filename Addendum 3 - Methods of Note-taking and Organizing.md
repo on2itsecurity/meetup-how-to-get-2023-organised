@@ -1,12 +1,12 @@
 ---
 title: Addendum 3 - Methods of Note-taking and Organizing
 date created: Wednesday, February 1st 2023, 21:17:18 pm
-date modified: Saturday, February 4th 2023, 14:30:51 pm
+date modified: Tuesday, February 7th 2023, 07:22:19 am
 ---
 
 # Addendum 3 - Methods of Note-taking and Organizing
 
-##### 5 effective note taking methods:
+##### 5 effective note taking methods
 [https://www.oxfordlearning.com/5-effective-note-taking-methods/](https://www.oxfordlearning.com/5-effective-note-taking-methods/)
 
 ##### Eisenhouwer
@@ -18,13 +18,14 @@ https://projectofhow.com/methods/the-kipling-method/
 How to get to the bottom of a problem or extend your ideas.
 
 ##### Cornell method in more depth
-[https://thinkinsights.net/consulting/cornell-method-great-notes/](https://thinkinsights.net/consulting/cornell-method-great-notes/)
+[https://thinkinsights.net/consulting/cornell-method-great-notes/](https://thinkinsights.net/consulting/cornell-method-great-notes/)  
+The Cornell method is a very simple way of increasing the use of your note-taking. Try it!
 
-##### Zettelkasten: A system to take notes and create "a web of thoughts" instead of notes, a way of organizing your notes in meaningful and quick ways:
+##### Zettelkasten - A system to take notes and create "a web of thoughts" instead of notes, a way of organizing your notes in meaningful and quick ways
 [https://zettelkasten.de/introduction/](https://zettelkasten.de/introduction/)  
 *This one takes a lot of effort, but reaps great rewards. It's good to note that the linking and back-linking of Obsidian takes away a lot of the burden of this one*
 
-##### Forget Folders: The Best Ways to Organize Your Files with Tags and Labels.
+##### Forget Folders - The Best Ways to Organize Your Files with Tags and Labels
 [https://zapier.com/blog/how-to-use-tags-and-labels/](https://zapier.com/blog/how-to-use-tags-and-labels/)  
 Create a tag system to organize and find files and other information faster
 
