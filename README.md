@@ -1,5 +1,4 @@
 ---
-tags: [Obsidian, ON2IT/Meetup]
 title: Obsidian labs for the get organized 2023 meetup
 date created: Saturday, January 21st 2023, 12:56:12 pm
 date modified: Tuesday, February 7th 2023, 07:39:11 am
