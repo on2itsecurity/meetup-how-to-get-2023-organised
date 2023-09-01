@@ -40,6 +40,7 @@ I like to change the front-matter to (including trailing empty line):
 ## {pageTitle}
 
 created: {date:YYYY-MM-DDTHH:mm:ss} (UTC {date:Z})
+
 source: {baseURI}
 author: {byline}
 

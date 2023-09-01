@@ -1,4 +1,4 @@
-# Sub sed ora mora contigit parente toto
+# Sub sed ora mora
 
 ## Abstulit milibus alter
 

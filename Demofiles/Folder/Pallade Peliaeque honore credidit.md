@@ -1,4 +1,4 @@
-# Pallade Peliaeque honore credidit pavent vacuus Leucippusque
+# Pallade Peliaeque honore credidit
 
 ## Quaeritis unguibus commenta distante
 
