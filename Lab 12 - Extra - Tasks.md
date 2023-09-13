@@ -24,12 +24,12 @@ To start collecting and filtering on those checkboxes means you start looking fo
 
 Search for `- [ ]` in your vault, if you are using obsidian for some longer amount of time. Are all the results actionable content which you want to actually do? I firmly expect "No!" to be your answer.
 
-So it helps, as talked about in the presentation, to think of tasks as abstract or meta pointers to an actual content. Tasks should contain information, they should link to information. When you write such a task: "Work on proposal", "Chase topic X" you want to keep it short and sweet in order to keep your tasklist manageable.
+So it helps, as talked about in the presentation, to think of tasks as abstract or meta pointers to an actual content. Tasks shouldn't contain information, they should link to information. When you write such a task: "Work on proposal", "Chase topic X" you want to keep it short and sweet in order to keep your tasklist manageable.
 
 We'll make sure that the Tasks are true tasks by putting a defining label on them:
 
 - [ ] Go to `Settings` and select `Tasks`.
-- [ ] Put a clear defining tag in `Global Filter`. I've put `#TS` there, (Tasks Steph), to be able to filter them all.
+- [ ] Put a clear defining tag in `Global Filter`. I've put `#ST` there, (Stephs Tasks), to be able to filter them all.
 - [ ] Go to `Settings` and select `Hotkeys`
 - [ ] Search for `Tasks: Create or edit task` and assign it `control`+`option`+`t` (mac) or `control`+`alt`+`t` (other)
     - *This shortcut will be your way to create new and edit existing tasks.*

@@ -1,6 +1,6 @@
 ---
 date created: Wednesday, February 1st 2023, 18:39:53
-date modified: Wednesday, August 30th 2023, 09:18:00
+date modified: Wednesday, September 13th 2023, 13:57:42
 ---
 
 # Lab 03 - Optional - Font is comfort
@@ -9,7 +9,7 @@ date modified: Wednesday, August 30th 2023, 09:18:00
 
 Part of having a great editor and making notes, is making sure you enjoy editing and all is as smooth as possible.
 
-Microsoft created the free and open source font `Cascadia Code`. This font is the default font on *Github* at the moment and aimed at readability. It easy on the eyes, letters are very distinct. This also helps people with some forms of Dyslexia.
+Microsoft created the free and open source font `Cascadia Code`. This font is the default font on *Github* at the moment and aimed at readability. It's easy on the eyes, letters are very distinct. This also helps people with some forms of Dyslexia.
 
 - Download the font here: [https://github.com/microsoft/cascadia-code/releases](https://github.com/microsoft/cascadia-code/releases)
     - It's listed as something like `Assets: CascadiaCode-xxxxx.zip`

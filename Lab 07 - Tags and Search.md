@@ -1,6 +1,6 @@
 ---
 date created: Wednesday, February 1st 2023, 18:57:41
-date modified: Wednesday, August 30th 2023, 09:19:25
+date modified: Wednesday, September 13th 2023, 14:00:23
 ---
 
 # Lab 07 - Tags and Search
@@ -19,9 +19,9 @@ Obsidian really takes of and excels as a knowledge management tool because of it
 
 ### What's a tag?
 
-A tag is a powerful concept. It's a way to label notes or items. The importance and use of tagging is rappidly expanding in many tools, systems and networks. The idea of a tag is that it's like a sticker. You create it and you keep sticking it on anything you feel that should be labeled with your sticker.
+A tag is a powerful concept. It's a way to label notes or items. The importance and use of tagging is rapidly expanding in many tools, systems and networks. The idea of a tag is that it's like a sticker. You create it and you keep sticking it on anything you feel that should be labeled with your sticker.
 
-The tags become a field you can search for: Al files tagged with `#tag`. As tags have autocomplete, it's really easy and fast to stick to a convention, a strict naming system.  
+The tags become a field you can search for: All files tagged with `#tag`. As tags have autocomplete, it's really easy and fast to stick to a convention, a strict naming system.  
 Many people see tags as a natural successor to folders (in mail, in file-systems, everywhere). You can only put a file in one folder.
 
 What if a file or email is about two diffent topics?  
